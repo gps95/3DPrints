@@ -1,2 +1,3 @@
 # 3DPrints
-A collection of things i have 3D printed
+
+A collection of things i have 3D printed or designed myself
